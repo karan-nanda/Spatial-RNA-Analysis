@@ -2,7 +2,7 @@
 
 # Code Analysis and Visualization README
 
-This README provides an overview of the Python code and its functionalities. The code performs various data analysis and visualization tasks using the Scanpy library. The purpose of this code is to analyze spatial transcriptomics data and generate visualizations to understand gene expression patterns.
+This README provides an overview of the Python code and its functionalities. The code performs various data analysis and visualization tasks using the Scanpy library. The purpose of this code is to analyze spatial transcriptomics data and generate visualizations to understand gene expression patterns. The data for the spatial analysis can be found [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE178361) with the paper that is available [here](https://doi.org/10.1038/s41586-022-04541-3)
 
 ## Table of Contents
 
@@ -58,3 +58,7 @@ The code can be divided into the following sections:
 The code provides insights into spatial transcriptomics data through various visualizations. It identifies clusters of cells, visualizes gene expression patterns, and highlights marker genes associated with each cluster. These results help in understanding the spatial distribution of gene expression in the tissue under study.
 
 Please note that the provided code snippets might need adjustments according to your specific dataset and requirements. Make sure to customize file paths, parameters, and visualization options accordingly.
+
+## Cited paper
+
+Kadur Lakshminarasimha Murthy, P., Sontake, V., Tata, A. et al. Human distal lung maps and lineage hierarchies reveal a bipotent progenitor. Nature 604, 111–119 (2022). https://doi.org/10.1038/s41586-022-04541-3
